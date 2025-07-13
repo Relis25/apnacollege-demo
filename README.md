@@ -1,2 +1,2 @@
 # apnacollege-demo
-author - Relis Patel
+author - Relis (Patel)
